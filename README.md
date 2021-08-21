@@ -1,6 +1,6 @@
 ### Hi, I'm Eunhee 👋
 
-I am a student majoring **sociology** and **applied mathematics** at [Kyung Hee University](https://www.khu.ac.kr/eng/main/index.do), based in Seoul, Sotuh Korea. My major areas of interests are game data analysis, social experiences of on-line game. I love gaming🎮 and meditation(mindfulness)🧘.
+I majored **sociology** and **applied mathematics** at [Kyung Hee University](https://www.khu.ac.kr/eng/main/index.do), based in Seoul, Sotuh Korea. My major areas of interests are game data analysis, social experiences of on-line game.
 
 ### 💻 Skills
 
