@@ -1,7 +1,6 @@
 ### Hi, I'm Eunhee 👋
 
-I majored **sociology** and **applied mathematics** at [Kyung Hee University](https://www.khu.ac.kr/eng/main/index.do), based in Seoul, Sotuh Korea. My major areas of interests are game data analysis, social experiences of on-line game.
-
+I majored **sociology** and **applied mathematics** at [Kyung Hee University](https://www.khu.ac.kr/eng/main/index.do), based in Seoul, Sotuh Korea. I currently working as Researcher at [CILAB](https://cilab.gist.ac.kr/hp/), Gwangju Institute of Science and Technology. My major areas of interests are game data mining and game player modeling. 
 ### 💻 Skills
 
 - Python
@@ -10,7 +9,7 @@ I majored **sociology** and **applied mathematics** at [Kyung Hee University](ht
 - Adobe Illustrator
 
 ### 👌 Work & teaching experiences
-
+- Researcher @ GIST(Gwangju Institute of Science and Technology)
 - Undergraduate researcher @ Kyung Hee University
 - Survey team leader of Kyung Hee University @ KGSS(Korean General Social Survey)
 - Teaching assistant @ KOSSDA(Korea Social Science Data Archive)
