@@ -17,5 +17,5 @@ I majored **sociology** and **applied mathematics** at [Kyung Hee University](ht
 ### ✉ Find me!
 - Email : eunee.stella@gmail.com
 - Blog(Korean) : https://euneestella.github.io/
-- Linkedin : https://www.linkedin.com/in/eunhee-kim-555627174/
+- Linkedin : https://www.linkedin.com/in/eun-hee-kim/
 
