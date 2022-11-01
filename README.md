@@ -4,6 +4,9 @@ M.S student @ [Gwangju Institute of Science and Technology](https://www.gist.ac.
 
 ### 💻 Skills
 - Python
+- C#
+- Unity
+- MATLAB
 - R
 - Adobe Photoshop
 - Adobe Illustrator
