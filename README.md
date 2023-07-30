@@ -1,15 +1,7 @@
 ### Hi, I'm Eunhee 👋
 
 M.S student @ [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/en/main.html).
-
-### 💻 Skills
-- Python
-- C#
-- Unity
-- MATLAB
-- R
-- Adobe Photoshop
-- Adobe Illustrator
+You can find me at http://eunheekim.oopy.io
 
 ### 👌 Work & teaching experiences
 - Researcher @ GIST(Gwangju Institute of Science and Technology)
@@ -19,6 +11,6 @@ M.S student @ [Gwangju Institute of Science and Technology](https://www.gist.ac.
 
 ### ✉ Find me!
 - Email : eunee.stella@gmail.com
-- Blog(Korean) : https://euneestella.github.io/
+- Website : http://eunheekim.oopy.io
 - Linkedin : https://www.linkedin.com/in/eun-hee-kim/
 
