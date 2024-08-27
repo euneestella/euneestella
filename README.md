@@ -1,8 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Eunhee+Kim&fontSize=70&fontAlign=50&fontAlignY=50&desc=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+AI+Engineer+%EA%B9%80%EC%9D%80%ED%9D%AC%EC%9E%85%EB%8B%88%EB%8B%A4.&descSize=20&descAlign=50&descAlignY=60)
-
-## 🏠 https://eunheekim.oopy.io
-
-
 ## 🦾 Skills
 ### 🧑‍💻 Lang and Frameworks
 
