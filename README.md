@@ -1,10 +1,3 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=euneestella&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/euneestella"
-    width="600"
-    height="300"
-  />
-</a>
 
 <h2 align="center">Hi, I'm Eunhee Kim 🌱</h2>
 <p align="center">
@@ -19,10 +12,7 @@
 - 🕺 Human Motion Generation
 - 💭 Human Scene/Object Interaction
 
----
-
 ### 🦾 Skills
-
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
