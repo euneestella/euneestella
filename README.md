@@ -1,12 +1,4 @@
-
-<h2 align="center">Hi, I'm Eunhee Kim 🌱</h2>
-<p align="center">
-  AI Research Engineer passionate about <strong>human motion generation</strong>.
-  <br />
- </p>
-
----
-
+## AI Research Engineer
 ### 🧠 What I'm Working On
 
 - 🕺 Human Motion Generation
