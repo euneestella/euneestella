@@ -1,20 +1,19 @@
-## AI Research Engineer
-### 🧠 What I'm Working On
+<h3 align="center">👋 Hi there, I'm Eunhee Kim</h3>
 
-- 🕺 Human Motion Generation
-- 💭 Human Scene/Object Interaction
+<p align="center">
+  <a href="https://www.linkedin.com/in/eun-hee-kim/">LinkedIn</a> •
+  <a href="https://www.instagram.com/theknitterkim/">Instagram</a>
+</p>
 
-### 🦾 Skills
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
-![R](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white) 
+---
+<h3>💻 About Me</h3>
+I'm a driven Research / ML Engineer with 1.5 years of experience, specializing in <b>3D human motion generation 💃</b>. I'm hands-on with data orchestration pipelines based on Airflow and deployment-oriented serving pipelines—delivering reliable, scalable research code that works in production.
 
-### 🛠️ Infrastructure & Tools
-![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white) 
+<h3>📖 Recent News</h3>
+
+🎉 **December 2024** - Our paper **"[COMET: Controllable Long-term Motion Generation with Extended Joint Targets](https://arxiv.org/abs/2512.04487)"** has been accepted to **WACV 2026**!
+
+---
+
+- 📫 Reach me on [email](mailto:eunee.stella@gmail.com)  
+- 😄 Pronouns: She/Her  
