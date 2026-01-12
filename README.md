@@ -11,7 +11,7 @@ I'm a driven Research / ML Engineer with 1.5 years of experience, specializing i
 
 <h3>📖 Recent News</h3>
 
-🎉 **December 2024** - Our paper **"[COMET: Controllable Long-term Motion Generation with Extended Joint Targets](https://arxiv.org/abs/2512.04487)"** has been accepted to **WACV 2026**!
+🎉 **December 2025** - Our paper **"[COMET: Controllable Long-term Motion Generation with Extended Joint Targets](https://arxiv.org/abs/2512.04487)"** has been accepted to **WACV 2026**!
 
 ---
 
